@@ -14,7 +14,7 @@
 
 #### 작업형 1유형
 
-`csv 파일` : boston.csv , train.csv
+`csv 파일` : boston.csv , train.csv , matcars.csv
 
 `1유형_1` : 특정 컬럼 상위10번째까지 10번째 값으로 대체 후 평균값을 낸다.
 
@@ -42,5 +42,7 @@
 
 
 #### 작업형 2유형
+
+`csv 파일` : titanic_train.csv , titanic_test.csv
 
 `2유형_1` : titanic csv파일로 생존확률을 구하는 분류문제(제출한 모델의 성능은 roc_auc 평가지표에 따라 채점한다.)
